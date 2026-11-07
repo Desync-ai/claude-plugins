@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "desync": {
+      "type": "http",
+      "url": "https://mcp.desync.ai/mcp"
+    },
+    "desync-second-brain": {
+      "type": "http",
+      "url": "https://crm.desync.ai/mcp"
+    }
+  }
+}

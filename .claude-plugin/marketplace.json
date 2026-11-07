@@ -1,0 +1,22 @@
+{
+  "name": "desync",
+  "owner": {
+    "name": "Desync AI, Inc.",
+    "email": "support@desync.ai"
+  },
+  "metadata": {
+    "description": "Desync's official plugins for Claude Code: Catholic data and your Desync Second Brain over MCP.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "desync",
+      "source": "./plugins/desync",
+      "description": "Desync's two MCP servers: Catholic data (parishes, clergy and parish staff, bulletin advertisers, Notre Dame alumni, saved lists) and your own Second Brain records. Sign in once per server with /mcp.",
+      "version": "1.0.0",
+      "category": "data",
+      "homepage": "https://www.desync.ai/mcp",
+      "keywords": ["mcp", "catholic", "parishes", "crm", "desync"]
+    }
+  ]
+}
